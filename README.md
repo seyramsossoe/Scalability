@@ -1,4 +1,0 @@
-Scala
-=====
-
-Traffic Simulation
